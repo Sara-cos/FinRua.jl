@@ -1,8 +1,9 @@
-module Rua 
+module Rua
 
 using Dates, LinearAlgebra, Printf
 
 include("Compound_Interest.jl")
-export SPCA_Factor
+export FP
+
 
 end #module

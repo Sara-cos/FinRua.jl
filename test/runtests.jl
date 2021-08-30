@@ -14,4 +14,4 @@ using Test
     @test AP(1.555,8) == 1.555856726826602
 
 
-end
+end 
