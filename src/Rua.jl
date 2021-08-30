@@ -1,5 +1,8 @@
-module Rua
+module Rua 
 
-# Write your package code here.
+using Dates, LinearAlgebra, Printf
 
-end
+include("Compound_Interest.jl")
+export SPCA_Factor
+
+end #module

@@ -3,6 +3,9 @@ uuid = "354d5d7f-708f-4901-a0f3-d8f73932ec7d"
 authors = ["Prasansha Satpathy"]
 version = "0.1.0"
 
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
 [compat]
 julia = "1.1"
 
