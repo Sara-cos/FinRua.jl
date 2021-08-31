@@ -1,4 +1,4 @@
-using Rua
+using Rua 
 using Test
 
 
@@ -26,4 +26,4 @@ using Test
     @test PA(0.9,0.99) ==  0.5225501860675223
     @test PA(1.555,8) ==  0.6427327033123716
 
-end 
+end
