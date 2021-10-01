@@ -2,7 +2,7 @@
 
 FP(i, n) = return (1 + i) ^ n
 PF(i, n) = return (1 + i) ^ (-n)
-AF(i, n) = return i / ((1 + i) ^ n - 1) 
+AF(i, n) = return i / ((1 + i) ^ n - 1)
 
 function AP(i, n)
     temp = (1 + i) ^ n

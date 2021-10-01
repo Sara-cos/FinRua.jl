@@ -1,8 +1,8 @@
-using Rua 
-using Test
+using FinRua
+using Test 
 
 
-@testset "Rua.jl" begin
+@testset "FinRua.jl" begin
 
     @test FP(2,5) == 243
     @test FP(2.5,10) == 275854.7353515625
